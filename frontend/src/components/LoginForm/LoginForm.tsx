@@ -45,15 +45,15 @@ export const LoginForm: React.FC<LoginFormProps> = ({
   return (
     <div className={cn('flex flex-col items-center text-center', className)}>
       {/* Logo */}
-      <div 
+      <img
+        src="/aura-coach.png"
+        alt="AuraCoach Logo"
         className={cn(
-          'w-18 h-18 mb-5 bg-gray-700 rounded-2xl flex items-center justify-center text-white font-semibold text-2xl',
+          'mb-2 w-60 h-60 ',
           ANIMATIONS.BLUR_TRANSITION,
           isFocused && 'opacity-30 transform scale-95'
         )}
-      >
-        A
-      </div>
+      />
 
     {/* Main Heading */}
     <h1 
@@ -64,7 +64,7 @@ export const LoginForm: React.FC<LoginFormProps> = ({
         isFocused && 'opacity-30 transform -translate-y-1'
       )}
     >
-      Login to AuraCoach
+      Lock in with AuraCoach
     </h1>
       {/* Description */}
       <p 
@@ -74,7 +74,7 @@ export const LoginForm: React.FC<LoginFormProps> = ({
           isFocused && 'opacity-30 transform -translate-y-1'
         )}
       >
-        Commit to your fitness another day.<br />Enter your email to sign up or log in.
+        Here's to you. Commit to your fitness another day.<br />Enter your email to sign up or log in.
       </p>
 
         <form 
