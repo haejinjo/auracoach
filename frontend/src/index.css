@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-auracoach-bg: rgb(19, 20, 25);
+  --color-auracoach-text-primary: rgb(255, 255, 255);
+  --color-auracoach-text-secondary: rgb(230, 230, 230);
+  --color-auracoach-text-tertiary: rgb(160, 160, 160);
+  --color-auracoach-accent: rgb(71, 159, 250);
+  --color-auracoach-glass: rgba(255, 255, 255, 0.06);
+  --color-auracoach-border: rgba(255, 255, 255, 0.08);
+  
+  /* Font Families */
+  --font-calibre: calibre, "calibre Fallback", system-ui, sans-serif;
+  
+  /* Backdrop Blur */
+  --blur-auracoach: 2px;
+  
+  /* Transition Timing Functions */
+  --ease-auracoach-ease-in: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  --ease-auracoach-ease-out: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --ease-auracoach-ease-in-out: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  
+  /* Animations */
+  --animate-fade-in: fadeIn 0.3s ease-out;
+  
+  /* Keyframes for fade-in animation */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+/* Custom font smoothing */
+* {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
+
+/* Selection color */
+::selection {
+  background: rgba(72, 158, 250, 0.2);
+}
+
+/* Reusable tailwind classes for fancy animations and styling */
+@layer utilities {
+  .glassmorphic {
+    @apply bg-white/[0.06] border-white/[0.08] backdrop-blur-sm;
+    box-shadow: rgba(0, 0, 0, 0.08) 1px 1px 1px inset;
+  }
+  
+  .gradient-text {
+    background: linear-gradient(135deg, #B3AEF5 0%, #D7CBE7 43%, #E5C8C8 65%, #ECBDAA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
