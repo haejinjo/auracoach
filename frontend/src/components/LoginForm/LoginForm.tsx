@@ -4,7 +4,8 @@ import { ANIMATIONS } from '../../utils/constants';
 import { useFocusBlur } from '../../hooks/useFocusBlur';
 import { useFormValidation } from '../../hooks/useFormValidation';
 import { Button, Input } from '../ui';
-import type { LoginFormProps } from './LoginForm.types';
+import { type LoginFormProps } from './LoginForm.types';                                                                                                                                                      
+import auraCoachLogo from '../../assets/aura-coach.png';
 
 const validateEmail = (email: string): boolean => {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -46,7 +47,7 @@ export const LoginForm: React.FC<LoginFormProps> = ({
     <div className={cn('flex flex-col items-center text-center', className)}>
       {/* Logo */}
       <img
-        src="/aura-coach.png"
+        src={auraCoachLogo}
         alt="AuraCoach Logo"
         className={cn(
           'mb-2 w-60 h-60 ',

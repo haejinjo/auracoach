@@ -1,0 +1,14 @@
+{
+  "name": "auracoach-desktop",
+  "version": "1.0.0",
+  "description": "AuraCoach Desktop Application",
+  "scripts": {
+    "electron:dev": "concurrently \"cd frontend && npm run dev\" \"wait-on http://localhost:5173 && cd electron && npm run dev\"",
+    "electron:build": "cd frontend && npm run build && cd ../electron && npm run build && npm run dist"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "wait-on": "^7.2.0"
+  },
+  "private": true
+}
