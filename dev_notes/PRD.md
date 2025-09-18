@@ -46,19 +46,23 @@ Just what you need to succeed.
 See what AuraCoach will show you that no other app does:
 
 See what AuraCoach delivers that other apps miss:
-• Results are measured in body-mass distribution. Wake up looking better, not just lighter.
-• Recalculates your unique BMR and TDEE every week to lock in the sweet spot: enough calories to protect muscle, tight enough to burn fat
-• Surfaces only the numbers that matter—calories, sleep, and protein—so you can course-correct today, not after weeks of plateau.
-• Got an event in a few weeks or feeling like taking it slow?  We tailor our limits for your goal timeline based on your biometrics, like lean muscle and age, to allow more freedom than most tools to experiment.  Unlike one-size-fits-all limits, our science-based approach allows up to 1,000 cal for 1–2 lb/week loss. Our priority is recomp, not politics. If it’s too much, we’ll ease off next week—no harm done. You know you best; we help you push safely.
-• Our goal is to help peak performers recomp. Some apps label 20% BF for women and 15% for men as "extremely lean," capping their rate of change based on conservative health guidelines (e.g., ACE athletic ranges), which can frustrate those who were ready for their next level yesterday. We recognize 15% BF can support higher deficits (up to 1,000 cal for 1–2 lb/week loss) if you feel healthy and stay above essential thresholds (10–13% for women, 2–5% for men) to avoid hormonal, immune, or catabolic risks. If you’re recomping on schedule and feeling good, we prioritize your progress over generic limits. If it’s too much, we adjust next week—no harm done. You know you best; we guide you safely with the latest research.
- - Tailored to biometrics like lean muscle and age, mirroring elite bodybuilder methods (e.g., 1,500–2,500 kcal with 2.3–3.1 g/kg protein) to preserve muscle, 20–40% below standard intakes for 15–25% BF, 35-and-under athletes.
- - Limits factor in lean muscle mass (>20% body weight), boosting metabolism by 10–15 cal/lb daily, preserving muscle and hormones for fit users (15–25% BF, age <35).
- - Offers more freedom than typical tools, focusing on your dream body rather than generic restrictions.
- - Auto-adjusts based on tracking your journey, lowering the deficit if your body rejects it, with no penalty ("no harm no foul").
- - Provides numbers to help you push safely, emphasizing a personalized, data-driven approach.
+- Visible Body Composition Results: Tracks body-mass distribution for a leaner, more defined physique—beyond just weight loss.
+- Your Metabolism Adapts, So Do We: Weekly BMR and TDEE recalibrations using your latest body composition and calorie burn data ensure accurate, muscle-preserving deficits for optimal fat loss. No generic calculators. This is the foundation for all metrics.
+- Actionable Metrics & Alerts: Draws your attention to your calories, sleep, and protein so you can make real-time course correction. Gentle cues flag deviations from your weekly targets early, so you can avoid plateaus and delays -- whether you have a deadline or just want to enjoy consistent progress as you get to your dream body. 
+- Push Safely with Personalized Data-Driven Recomp for Peak Performance: Supports even the most ambitious body fat % goals above safe thresholds (10-13% for women, 2-5% for men), because the ideal BF% threshold isn't fixed—it shifts based on your profile. On top of your current BMR and TDEE, weekly check-ins assess your mood, energy, lean body mass, skeletal muscle mass, and body fat %, dynamically adjusting to ensure you are healthy while happy with your progress. If you’re recomping on schedule and feeling good, we prioritize your goals over conservative one-size-fits-all limits, which can frustrate those who were ready for their next level yesterday. If it’s too much, we adjust next week—no harm done. You know you best; we guide you safely with the latest research.
+      - Tailored to biometrics like lean muscle and age, mirroring elite bodybuilder methods (e.g., 1,500–2,500 kcal with 2.3–3.1 g/kg protein) to preserve muscle, 20–40% below standard intakes for 15–25% BF, 35-and-under athletes.
+      - Limits factor in lean muscle mass (>20% body weight), boosting metabolism by 10–15 cal/lb daily, preserving muscle and hormones for fit users (15–25% BF, age <35).
+  - DISCLAIMER: If everything goes right?
+    - If you reach your goal, congratulations. We allow moving the goalpost up until a lower bound weight for all users. Research shows that sustaining levels of 10-13% for women and 2-5% for men for longer than a month can lead to hormone, bone density, and metabolic damage. If you feel fine, reach out to us and we'll pay you to enter a research study. Above this range? We allow you to get as close as your current metabolic profile at weekly check-in allows. 
+    - This is the complete list of factors that go into our weekly recalibrations (and stopping points) for your goals:
+      - Age: With age, hormones change and metabolism slows. We allow lower BF % for users < 35 years old because they can sustain lower  thresholds safely.
+      - Sex: Women require 5-10% more than men 
+      - Body Fat %: 
+      - Activity Level: High resistance training and cardio allow lower sustainable BF% by preserving muscle and boosting metabolism, but overtraining raises the threshold. We can only track your calorie burn with Oura, not how much you exert resistance training.
+      - Out of scope: Beyond resistance training, there are many factors that influence the lowest healthy BF % for you that are out of our scope (e.g. genetics, pollution, environment, stress, etc.). We count on you to be honest in your subjective ratings from weekly check-ins to optimize for your wellbeing.
+        - Bottom line: If you start to feel bad, we pull you back, then reassess next week, just like a real coach.
 
 IMAGE: A quick preview of the dashboard—Net Calorie Balance, Sleep, and Protein charts—proves the plan is built on hard data before you connect any accounts.
-
 
 2. Minimize Cognitive Load -- Bundle data connections (Oura + MyFitnessPal) into a single step with one-click auth. Provide a clear progress indicator and use concise, technical labels (e.g., “Connect Data Sources,” “Set Baseline Metrics”) instead of marketing text.
    - Present the three connection steps (MyFitnessPal, Oura, baseline metrics) as a single vertical progress bar so users see completion at a glance.
