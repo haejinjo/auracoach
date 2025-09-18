@@ -6,6 +6,71 @@
 ### Product Vision
 A data-driven platform that enables users to simultaneously lose fat and maintain/build muscle mass through intelligent tracking, automated TDEE calculations, and adaptive target adjustments based on weekly progress indicators.
 
+### User
+
+Tech-savvy fitness enthusiasts who want data-driven guidance for recomposition.
+
+• People already tracking food and activity in apps like MyFitnessPal and Oura but frustrated by manual TDEE math, especially as they get deeper into a goal track.
+• Evidence-based dieters who prefer objective metrics (protein per kg, rolling averages) over generic meal plans.
+• Lifters and recreational athletes aiming to lose fat without losing strength or muscle.
+• Quantified-self achievers who like automated trend analysis and clear visual dashboards.
+• Busy professionals who want clear, concise weekly “coach-style” adjustments instead of hiring a personal trainer.
+
+This audience values automation, accuracy, and low-friction tracking over social or motivational features.
+
+---
+
+### Product Design
+- Simplify friction and reinforce their identity as data-driven peak performers and achievers.
+
+#### Principles to Emphasize
+- Proof of accuracy up front, low-effort data capture, and immediate evidence of an automated “coach” that removes manual math.
+- Automation and evidence-based guidance while reinforcing a premium, quantified-self aesthetic.
+
+#### Visual Language
+- Keep the near-black background and rainbow-prism-neon-gradient-aura-glow branding for first-impression impact.
+-  Add a subtle animated glow around primary CTAs to guide attention without clutter. Reserve bright gradient accents strictly for actionable elements (e.g., “Update Check-In”) to maintain high signal-to-noise.
+- Crisp, neutral typography and minimalist charts to echo quantified-self aesthetics. Medium-weight sans-serif for titles, lighter for data points; generous line height to reduce glare.
+- Within each modular card, embed micro-charts (sparklines for weight trend, protein g/kg) using the neon gradient palette for key metrics only.
+
+#### Onboarding Design Requirements
+- Use the glass-card look for each step: slight inner shadow, faint blur, and one-line explanations. Title each with concise technical labels—“Connect Data Sources,”, “Confirm Baseline,” “Preview Coach Report.”
+- End with a computed TDEE preview card. This shows immediate value and validates the automation.
+
+#### Screens Breakdown
+1. Open with a one-line promise outcomes and control -- "Lose fat and gain muscle with confidence. It’s possible, and only weeks away." 
+2. Preview of the daily and weekly Net Calorie Balance, Sleep, and Protein charts to demonstrate evidence-based rigor before asking for any data, so they already feel their new leverage. 
+    -  (always safe but option for aggressive tighter deadline calorie deficit that retains muscle by rewarding you for sleep and protein, focus on body mass distribution over weight) 
+
+Just what you need to succeed.
+See what AuraCoach will show you that no other app does:
+
+See what AuraCoach delivers that other apps miss:
+• Results are measured in body-mass distribution. Wake up looking better, not just lighter.
+• Recalculates your unique BMR and TDEE every week to lock in the sweet spot: enough calories to protect muscle, tight enough to burn fat
+• Surfaces only the numbers that matter—calories, sleep, and protein—so you can course-correct today, not after weeks of plateau.
+• Got an event in a few weeks or feeling like taking it slow?  We tailor our limits for your goal timeline based on your biometrics, like lean muscle and age, to allow more freedom than most tools to experiment.  Unlike one-size-fits-all limits, our science-based approach allows up to 1,000 cal for 1–2 lb/week loss. Our priority is recomp, not politics. If it’s too much, we’ll ease off next week—no harm done. You know you best; we help you push safely.
+• Our goal is to help peak performers recomp. Some apps label 20% BF for women and 15% for men as "extremely lean," capping their rate of change based on conservative health guidelines (e.g., ACE athletic ranges), which can frustrate those who were ready for their next level yesterday. We recognize 15% BF can support higher deficits (up to 1,000 cal for 1–2 lb/week loss) if you feel healthy and stay above essential thresholds (10–13% for women, 2–5% for men) to avoid hormonal, immune, or catabolic risks. If you’re recomping on schedule and feeling good, we prioritize your progress over generic limits. If it’s too much, we adjust next week—no harm done. You know you best; we guide you safely with the latest research.
+ - Tailored to biometrics like lean muscle and age, mirroring elite bodybuilder methods (e.g., 1,500–2,500 kcal with 2.3–3.1 g/kg protein) to preserve muscle, 20–40% below standard intakes for 15–25% BF, 35-and-under athletes.
+ - Limits factor in lean muscle mass (>20% body weight), boosting metabolism by 10–15 cal/lb daily, preserving muscle and hormones for fit users (15–25% BF, age <35).
+ - Offers more freedom than typical tools, focusing on your dream body rather than generic restrictions.
+ - Auto-adjusts based on tracking your journey, lowering the deficit if your body rejects it, with no penalty ("no harm no foul").
+ - Provides numbers to help you push safely, emphasizing a personalized, data-driven approach.
+
+IMAGE: A quick preview of the dashboard—Net Calorie Balance, Sleep, and Protein charts—proves the plan is built on hard data before you connect any accounts.
+
+
+2. Minimize Cognitive Load -- Bundle data connections (Oura + MyFitnessPal) into a single step with one-click auth. Provide a clear progress indicator and use concise, technical labels (e.g., “Connect Data Sources,” “Set Baseline Metrics”) instead of marketing text.
+   - Present the three connection steps (MyFitnessPal, Oura, baseline metrics) as a single vertical progress bar so users see completion at a glance.
+3. Personalize Without Fluff -- After integrations, prefill baseline stats from Oura (weight, height) if available and instantly calculate initial TDEE. Showing a computed number reinforces that automation is working.
+   - Present the three connection steps (MyFitnessPal, Oura, baseline metrics) as a single vertical progress bar so users see completion at a glance.
+4. Coach-Style Framing -- Finish with a “Your First Check-In” preview: a mock weekly report headline like “Next Sunday you’ll see: Calories vs TDEE, Protein g/kg, Weight Trend.” This gives busy professionals the mental model of concise weekly adjustments.
+
+#### Home Screen Design Requirements
+- Dark, two-column grid. Left navigation rail stays persistent ("Home", "Results", "Profile"); right contextual panel shows weekly trend summary and next adjustment.
+
+---
+
 ### Core Value Proposition
 It IS possible to lose fat and build muscle.
 All you need is a coach to keep you accountable with the math,
