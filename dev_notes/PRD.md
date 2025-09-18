@@ -42,19 +42,26 @@ This audience values automation, accuracy, and low-friction tracking over social
 2. Preview of the daily and weekly Net Calorie Balance, Sleep, and Protein charts to demonstrate evidence-based rigor before asking for any data, so they already feel their new leverage. 
     -  (always safe but option for aggressive tighter deadline calorie deficit that retains muscle by rewarding you for sleep and protein, focus on body mass distribution over weight) 
 
-Just what you need to succeed.
-See what AuraCoach will show you that no other app does:
-
-See what AuraCoach delivers that other apps miss:
-- Visible Body Composition Results: Tracks body-mass distribution for a leaner, more defined physique—beyond just weight loss.
-
-- Smart Metabolism Tracking: Weekly BMR and TDEE recalibrations using your latest body composition and calorie burn data ensure accurate, muscle-preserving deficits for optimal fat loss. No generic calculators. This is the foundation for all metrics.
-- Simplicity gets Results: Your control center features calories, protein, and sleep. These are the big three levers of change.
+Most apps give you more data. We give you better decisions.
+- Visible Results: Watch your body composition, not just weight. The goal is to see a leaner, more defined physique sooner. This means less fat, not less muscle.
+- Smart Metabolism Tracking: Recomp is a delicate balance that starts with knowing your real BMR and TDEE, the foundation for your goal. These numbers, your metabolism, change as you progress. We use your latest data to ensure your calorie deficits preserve muscle while maximizing fat loss. 
+- Less is more: Your control center features calories, protein, and sleep. These are the big three levers of change.
 - Actionable Metrics & Alerts: Get gentle nudges when you're off track with your big three. Catch deviations early to maintain steady progress toward your goal.
 [Tooltip: Real-time course corrections help you avoid plateaus and stay consistent, whether you have a deadline or want steady progress.]
+- Goal Support: Push toward even challenging goals. Our system follows your lead while staying above safe limits based on your weekly check-ins, including how you feel and factors like sufficient lean muscle mass (>20% body weight), which can boost metabolism by 10–15 cal/lb daily, preserving muscle and hormones for fit users (15–25% BF, age <35).
+[Tooltip: We support ranges that many apps don't because research shows that the ideal BF% threshold can vary widely depending on factors beyond BMR on paper. We account for your lean mass, body fat %, and actual TDEE as it fluctuates. If you’re recomping on schedule and feeling good, we prioritize your goals over frustrating, conservative one-size-fits-all limits. If it’s too much, we adjust next week—no harm done. You know you best; we guide you safely with the latest research.]
+[Tooltip: Supports elite-level deficits (e.g., 1,500–2,500 kcal, 2.3–3.1 g/kg protein) for fit users (15–25% BF, age <35), but pulls back if you feel off to protect hormones and metabolism. Research shows sustained levels below 10-13% (women) or 2-5% (men) risk health issues. Contact us for research study opportunities if you feel great at these limits! Factors like genetics or stress are considered via your weekly feedback. ]
 
-- Ambitious Goal Support: Push toward even challenging body fat goals while staying healthy. Our system supports targets above safe thresholds, adjusting based on your weekly check-ins, including how you feel.
-[Tooltip: The ideal BF% threshold can vary widely depending on your profile. We account for your lean mass, body fat %, and actual TDEE as it fluctuates, not just your BMR on paper. This allows you to push further safely if you’re recomping on schedule and feeling good. We prioritize your goals over conservative one-size-fits-all limits, which frustrate those who were ready for their next level yesterday. If it’s too much, we adjust next week—no harm done. You know you best; we guide you safely with the latest research. Supports elite-level deficits (e.g., 1,500–2,500 kcal, 2.3–3.1 g/kg protein) for fit users (15–25% BF, age <35), but pulls back if you feel off to protect hormones and metabolism. Research shows sustained levels below 10-13% (women) or 2-5% (men) risk health issues. Contact us for research study opportunities if you feel great at these limits! Factors like genetics or stress are considered via your weekly feedback. Limits factor in lean muscle mass (>20% body weight), boosting metabolism by 10–15 cal/lb daily, preserving muscle and hormones for fit users (15–25% BF, age <35).]
+###### Important Safety Information
+- Goal Achievement & Limits
+  - When you reach your target, congratulations! You can adjust goals within safe ranges. Research shows that maintaining very low body fat levels (10-13% women, 2-5% men) for over a month can impact hormones, bone density, and metabolism.
+  [Tooltip: If you feel great at these levels, contact us about joining a research study. Above these ranges, we'll help you get as close as your metabolic profile safely allows.]
+- Weekly Recalibration Factors
+  - Our adjustments consider your age, sex, body fat percentage, activity level, and weekly check-in responses about energy, mood, and how you feel.
+  [Tooltip: Complete factor list - Age: Users under 35 can typically sustain lower body fat safely due to hormonal advantages. Sex: Women require 5-10% higher body fat than men. Activity: High resistance training allows lower sustainable levels, but we can only track cardio through Oura. Many factors (genetics, stress, environment) are beyond our scope—we rely on your honest weekly feedback.]
+- Your Safety, Our Priority
+  - If you start feeling unwell, we adjust your targets and reassess the following week—just like a real coach would.
+
   - DISCLAIMER: If everything goes right?
     - If you reach your goal, congratulations. We allow moving the goalpost up until a lower bound weight for all users. Research shows that sustaining levels of 10-13% for women and 2-5% for men for longer than a month can lead to hormone, bone density, and metabolic damage. If you feel fine, reach out to us and we'll pay you to enter a research study. Above this range? We allow you to get as close as your current metabolic profile at weekly check-in allows. 
     - This is the complete list of factors that go into our weekly recalibrations (and stopping points) for your goals:
